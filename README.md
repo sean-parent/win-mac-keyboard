@@ -15,15 +15,15 @@ To access the characters, you can use the right-alt(altGr) key or control-alt ke
 
 ![image](https://github.com/sean-parent/win-mac-keyboard/assets/2279724/4885dc7a-39af-4a57-a1fd-c78accaf9adb)
 
-The highlighted keys are combining characters and can be used with other vowels to add accents. For example, to type:
+The highlighted keys are combining characters and can be used with other vowels to add accents. The accent character is typed after the charcter it is combined with. This is the opposite from how it is typed on macOS. For example, to type:
 
 | character | keystroke |
 |---|---|
-| ́e | altGr-e, e |
-| ́i | altgr-e, i |
-| ̈o | altgr-u, o |
-| ̃n | altgr-n, n |
-| ̈a | altgr-u, a |
+| ́e | e, altgr-e |
+| í | i, altgr-e |
+| ö | o, altgr-u |
+| ñ | n, altgr-n |
+| ä | a, altgr-u |
 
 ## Modifications
 
