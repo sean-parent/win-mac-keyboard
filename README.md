@@ -15,15 +15,15 @@ To access the characters, you can use the right-alt(altGr) key or control-alt ke
 
 ![image](https://github.com/sean-parent/win-mac-keyboard/assets/2279724/4885dc7a-39af-4a57-a1fd-c78accaf9adb)
 
-The highlighted keys are combining characters and can be used with other vowels to add accents. The accent character is typed after the charcter it is combined with. This is the opposite from how it is typed on macOS. For example, to type:
+The highlighted keys are combining characters and can be used with other vowels to add diacritical marks. The diacritical mark is typed after the charcter it is combined with. This is the opposite from how it is typed on macOS. Examples:
 
 | character | keystroke |
 |---|---|
-| é | e, altgr-e |
-| í | i, altgr-e |
-| ö | o, altgr-u |
-| ñ | n, altgr-n |
-| ä | a, altgr-u |
+| é | e, altGr-e |
+| í | i, altGr-e |
+| ö | o, altGr-u |
+| ñ | n, altGr-n |
+| ä | a, altGr-u |
 
 ## Modifications
 
@@ -31,6 +31,6 @@ The keyboard is created using [Microsoft's Keyboard Layout Creator 1.4](https://
 
 ## Known issues
 
-The application must be Unicode aware, and the combining characters don't render correctly in some situations. In some cases, the characters interfere with application shortcuts. In such cases, you can toggle to the regular keyboard with Windows-Space. In some apps, altGr will not work for some characters, but control-alt will work.
+The application must be Unicode aware. In some cases, the characters interfere with application shortcuts. In such cases, you can toggle to the regular keyboard with Windows-Space. In some apps, altGr will not work for some characters, but control-alt will work.
 
 If you have issues or suggestions, please open an issue in this repository.
