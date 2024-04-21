@@ -27,7 +27,7 @@ The highlighted keys are combining characters and can be used with other vowels 
 
 ## Modifications
 
-The keyboard is created using [Microsoft's Keyboard Layout Creator 1.4]([link](https://www.microsoft.com/en-us/download/details.aspx?id=102134&irgwc=1). The source file is [hear](link). You can download the file or clone this repository to make your customizations.
+The keyboard is created using [Microsoft's Keyboard Layout Creator 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134&irgwc=1). The source file is [hear](https://github.com/sean-parent/win-mac-keyboard/blob/main/source/US-macOSv0.klc). You can download the file or clone this repository to make your customizations.
 
 ## Known issues
 
