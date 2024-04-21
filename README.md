@@ -19,7 +19,7 @@ The highlighted keys are combining characters and can be used with other vowels 
 
 | character | keystroke |
 |---|---|
-| ́e | e, altgr-e |
+| é | e, altgr-e |
 | í | i, altgr-e |
 | ö | o, altgr-u |
 | ñ | n, altgr-n |
