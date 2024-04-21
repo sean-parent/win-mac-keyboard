@@ -3,7 +3,7 @@ A US Windows Keyboard with MacOS layout for special characters.
 
 ## Installation
 
-Download and extract the installer from [releases](link). Run setup.exe. The installer will add a keyboard layout which can be selected with Windows + Space keys or from the tool bar.
+Download and extract the installer from [releases](https://github.com/sean-parent/win-mac-keyboard/releases/tag/v1.0.0). Run setup.exe. The installer will add a keyboard layout which can be selected with Windows + Space keys or from the tool bar.
 
 ![image](https://github.com/sean-parent/win-mac-keyboard/assets/2279724/ebdff1a9-d0b1-4201-a2d1-10a01c5bfb44)
 
